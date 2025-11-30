@@ -1,0 +1,8 @@
+wheels/
+*.egg-info
+
+#virtual Environments
+.venv 
+env
+.env 
+ 
